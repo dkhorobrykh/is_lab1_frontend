@@ -1,0 +1,1 @@
+export const BASE_API_URL = "http://127.0.0.1:33660/lab1-1.0-SNAPSHOT/api"
